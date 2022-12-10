@@ -14,6 +14,7 @@ This repository contains the following programs:
 ## Requirements
 
 To build and run these programs, you will need:
+* - Working on Tic-Tac-toe 
 
 - A C compiler (e.g., GCC)
 - The make utility
