@@ -12,7 +12,7 @@ This repository contains the following programs:
 - hello-world: A simple "Hello, World!" program
  > * Happyface.c
 ## Requirements
-
+> * Working on porting pong to m1 
 To build and run these programs, you will need:
 * - Working on Tic-Tac-toe 
 
