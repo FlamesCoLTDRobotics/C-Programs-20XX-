@@ -6,13 +6,11 @@ This repository contains a collection of C programs developed by FlamesCo LTDRob
 
 ## Contents
 
+
 This repository contains the following programs:
 
 - hello-world: A simple "Hello, World!" program
-- fibonacci: A program that computes the Fibonacci sequence
-- temperature-converter: A program that converts temperatures between Celsius and Fahrenheit
-- quadratic-solver: A program that solves quadratic equations
-
+ > * Happyface.c
 ## Requirements
 
 To build and run these programs, you will need:
